@@ -1,8 +1,8 @@
 # eth-BankScheduler
 
-#npm i
+npm i
 
-#npm start
+npm start
 
 
 <table>
