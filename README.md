@@ -26,6 +26,10 @@
     <td> Reach us out: </td>
     <td> ravian.salman@hotmail.com </td>
   </tr>
+      <tr> 
+    <td> URL </td>
+    <td> https://linkedin.com/in/raviansalman </td>
+  </tr>
   <tr> 
     <td> Company </td>
     <td> TelGates Inc. </td>
